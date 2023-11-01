@@ -8,9 +8,7 @@ int main() {
 
 	printf("PullRequest branch changed\n");
 
-	printf("Clone changed\n");
-
-	printf("GitHub Clone changed\n");
+	printf("Conflict changed\n")
 
 	return 0;
 }
