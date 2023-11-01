@@ -8,5 +8,7 @@ int main() {
 
 	printf("PullRequest branch changed\n");
 
+	printf("Clone changed\n");
+
 	return 0;
 }
