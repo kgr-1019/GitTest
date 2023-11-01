@@ -10,5 +10,7 @@ int main() {
 
 	printf("Conflict changed\n")
 
+	printf("Clone changed\n");
+
 	return 0;
 }
